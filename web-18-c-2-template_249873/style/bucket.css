@@ -1,0 +1,12 @@
+button{
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    background-color: beige;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+    color: red;
+}
